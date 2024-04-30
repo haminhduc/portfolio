@@ -26,7 +26,8 @@ const Form = () => {
       );
   };
   return (
-    <div className="form">
+    <div className="message-form">
+      <h3>Leave me message</h3>
       <form action="" ref={form} onSubmit={sendEmail}>
         <label htmlFor="name">Your name</label>
         <input

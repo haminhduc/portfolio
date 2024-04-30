@@ -32,11 +32,11 @@ const Footer = () => {
           </div>
         </div>
         <div className="right">
-          <h4>About me</h4>
+          <h4>About me:</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
-            eaque dolorem sequi voluptates, itaque architecto saepe soluta?
-            Exercitationem, ducimus ipsa!
+            My name is Minh Duc Ha, and I'm a front-end developer based in North
+            York, Ontario, Canada. I'm passionate about cutting-edge,
+            pixel-perfect, beautiful interfaces, and intuitively implemented UX.
           </p>
           <div className="social">
             <FaFacebook

@@ -11,7 +11,7 @@ form {
 }
 form input,
 form textarea {
-  padding: 10px 18px;
+  padding: 10px;
   font-size: 1.2rem;
   background-color: rgba(255, 255, 255, 0.1);
   border-color: rgba(255, 255, 255, 0.1);
@@ -20,4 +20,10 @@ form textarea {
 
 form .btn {
   margin-top: 1.5rem;
+}
+.message-form h3 {
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
 }

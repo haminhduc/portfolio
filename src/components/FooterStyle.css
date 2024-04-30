@@ -31,11 +31,14 @@
   flex-direction: column;
   padding: 1rem;
 }
+.right h4 {
+  font-size: 1.3rem;
+}
 .social {
   margin-top: 1rem;
 }
 p {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 @media screen and (max-width: 640px) {
