@@ -1,0 +1,13 @@
+.contact-card {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 0.7rem;
+  margin: 2rem 0;
+}
+.contact-card h4 {
+  font-size: 2rem;
+}
+.contact-card .p {
+  font-size: 1.3rem;
+}

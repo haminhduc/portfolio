@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import DynamicHero from "../components/DynamicHero";
-import Form from "../components/Form";
+import ContactCard from "../components/ContactCard";
 import Footer from "../components/Footer";
 
 const Contact = () => {
@@ -12,7 +12,7 @@ const Contact = () => {
         heading="Contact."
         text="Here is how to get in touch with me."
       />
-      <Form />
+      <ContactCard />
       <Footer />
     </div>
   );
